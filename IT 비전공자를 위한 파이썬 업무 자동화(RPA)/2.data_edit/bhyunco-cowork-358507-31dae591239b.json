@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bhyunco-cowork-358507",
+  "private_key_id": "31dae591239b0576e681919e37ac1c492a88c628",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLPFpkQL4+bakv\n38WmRBWghdHpbVJXhtZJ7agfwM70P1g/e7Yn9pfslsbCnbtBDARFQldWURS/Z5zz\ntzD+vvXlpxS7L63dZYbqLy8vOaIfNrwVXUah6n1vDh8GKadhE9y1aKplP2xUWp3M\nkY83ki7PDGq0KQSCuc81MxupZOQ0EIGZ4FYyY1cQM8NWfjeji5RCJ3Rdm34temaG\nNxaJQXn9TSSmiiS8OyJKPtNivquS25ux6cRD+/KZe1qG416LYxYxV8wdjVo1ifV3\nZZpbOiCHS/U3txGm3sccYcLA4xTdSYLei9sYle/6L68ag5c2lkbnKtZxAFxU26Gl\nXHu+aMmbAgMBAAECggEAMbZBC/20KzQKqs2rHHjR63JgPp9BgWxXdTzfH2k7lg36\niYi6rTrJvZLB6m/HkmkckE5ia5gooYr4HrskDmPqZPLCBOlsN1fysMy612vbBpSO\nXBF1SfzAEs6a8xh0OzAvD+aaq2pglp+Vsqi2JespbPbGEOxpkIpfr00hioVFtqAV\nMdKrg7DIlgWo8fr75lN62wG+nx4oePIwYb/BKOInUrrZpSycigTUZ+JoyDjmVRAY\nx5fKAWtl4Rsg2YVcqlUww3J3BVTrd8+JY94hovLlHZWLjnFgUeEp5dFVhw5fSxzM\nUy7mmNQkhzPpkkjYJc/C6l9iB2HMcuxAFs19UuIzbQKBgQDyJ2otHyr7Npu5l632\nG+EE2zJwe0acbn4O+9ihlkcxR0pw7vlms9oLefMSNKW8wj5RfGvaX/HT4dXSJI+F\n48pY2+H0qLiaA0mUYhjQ4ECedxD+ItvMA09KKLsjUbYvnVJN4zB/seidhDM3xRci\nJHuCiQYkAZvu2RtvOIf36wlCpQKBgQDW20OSTPw6ntR5sp0nwhOrPMGE77GRVGTx\n/8JO1eh3eMGtDKOda7pcMq3oqaalVu1xkBoeSJfory7Ae5aGM2NymBbzdlVI8qsq\nGf6hx11RF9RLbMUgRBxX2MdEXJSWl5Cw/mdIJWfXQhogDpFti+v7CZJgpI7GDhWq\ndZ7AXD1nPwKBgHJugdRU2EDiq3Bm50RYJFvhIdLZzqJ57IQ0K0kg9P+qitkXdTA9\naZrmxCEkU/YBbOWhAG6vzF2uaRbnRBOnc6XOMtclLCdLymeee8+pSaAY8CTIYEnm\nfn+zA8xK/uc9VvmLlQ2jCyP0pyeBsc7mop8rFYXKZN/YJQjIFCjqHvQpAoGAbYSq\ntuJjF4Zqi/YNwXxeBkUb56U+f/Pi2LAj3YePzYZSQuFUbSPChMiYeSYw+cqLkf2A\nMruSI1tYm2jj21hKctkvqb5BzsNTmExTzScQXAunfSLegIn3YJfxStleLDzp1i53\newEGI2VgZ8LFQm+2Q+onIPgAhtgbFx6JY0ghTIUCgYEApy7fiOZiaGJl920XBE8z\nWeuZdHXolAbxffmdhGntW5o3OrPFG13b/KcbHD6n4i8xLkh+21DPOwlINJwMJdq+\n1my5xUNBfRnvQxJWY8piD8wV6hz8kYFaESQy/DB5asZJ/0lsveFdGV8oUGttJbIU\nt/hG/yAPjAfqG4Cvy74yYRQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bhyunco-cowork@bhyunco-cowork-358507.iam.gserviceaccount.com",
+  "client_id": "107001292154479226510",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bhyunco-cowork%40bhyunco-cowork-358507.iam.gserviceaccount.com"
+}
